@@ -1,0 +1,32 @@
+{
+  "name": "logs-colorify",
+  "version": "1.0.0",
+  "description": "It helps to beutify or colorful the logs message printed into console.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build":"tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srmarohit/logs-colorify-npm-packages.git"
+  },
+  "keywords": [
+    "console",
+    "logs colors",
+    "console beutify",
+    "console.log colorful",
+    "rohit sharma"
+  ],
+  "author": "ROHIT SHARMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srmarohit/logs-colorify-npm-packages/issues"
+  },
+  "homepage": "https://github.com/srmarohit/logs-colorify-npm-packages#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": ["lib/**/*"]
+}
