@@ -1,6 +1,6 @@
 {
   "name": "logs-colorify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It helps to beutify or colorful the logs message printed into console.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
